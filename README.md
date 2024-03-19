@@ -1,4 +1,4 @@
 # GH-demo
 this is my first git repository.
 <br>
-Author-karan swami(CWH)
+Author-karan swami(cwh)
